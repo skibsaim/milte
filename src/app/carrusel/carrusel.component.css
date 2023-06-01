@@ -1,0 +1,12 @@
+.carrusel_n {
+  position: absolute;
+
+  /* right: 20; */
+  height: 360px;
+  width: 280px;
+  display: flex;
+  align-items: center;
+  background-color: #e9edf1;
+  color: white;
+  /* font-weight: 100; */
+}
