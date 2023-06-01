@@ -1,6 +1,7 @@
 .carrusel_n {
   position: absolute;
-
+margin-top: 40px;
+margin-left: 200px;
   /* right: 20; */
   height: 360px;
   width: 280px;
@@ -8,5 +9,5 @@
   align-items: center;
   background-color: #e9edf1;
   color: white;
-  /* font-weight: 100; */
+
 }
